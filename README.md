@@ -9,7 +9,7 @@ In the following you will find a short explanation of the variables of the data 
 
 **Note 1:** Not all of the meassured data variables from the original data set have been added to the final data set produced by *runAnalysis.R*. Only the variables expressing values of means and standard deviations have been taken from the original data set. 
 
-**Note 2:** The variable names have been left as is since they are already very descriptive. The only modification was to replace all characters that are not allowed corresponding to the R syntax definition of variables, namely "-", "(" and ")".
+**Note 2:** The variable names have been left as is since they are already very descriptive. The only modification was to replace all characters that are not allowed corresponding to the R syntax definition of variables, namely "-", "(" and ")". Please note that the values in the output data set are **means** of all the collected data for a specific variable for every subject and every activity. 
 
 ## Script description
 In this section you will find a a brief explanation about what the script does. 
